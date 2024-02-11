@@ -9,7 +9,7 @@
     <h1 style="text-align: center;">LunarLander RL Agent</h1>
     <div style="text-align: center;">
         <video controls>
-            <source src="output.mp4" type="video/mp4">
+            <source src="https://github.com/Sachidananda-17/Lunar-Landing/blob/main/output.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
     </div>
