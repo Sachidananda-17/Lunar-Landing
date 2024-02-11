@@ -27,13 +27,14 @@
     <p>To run the RL agent and train it to solve the LunarLander-v2 environment, follow these steps:</p>
     <ol>
         <li>Clone this repository to your local machine.</li>
-        <li>Install the required dependencies by executing <code>pip install gym gym[atari,accept-rom-license] box2d torch</code>.</li>
-        <li>Run the provided code in your Python environment or Jupyter Notebook.</li>
+        <li>Install the required dependencies by executing the following command:</li>
     </ol>
+    <pre><code>pip install gym gym[atari,accept-rom-license] box2d torch</code></pre>
     <p>Ensure you have the necessary dependencies installed, including Gym and PyTorch, to execute the code successfully.</p>
     <h2>Getting Started</h2>
     <p>To begin training the RL agent, execute the provided code in your preferred Python environment. Adjust hyperparameters and training settings as needed for your specific requirements.</p>
     <h2>License</h2>
     <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
+
 </body>
 </html>
