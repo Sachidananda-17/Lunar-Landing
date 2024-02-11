@@ -9,7 +9,7 @@
     <h1 style="text-align: center;">LunarLander RL Agent</h1>
     <div style="text-align: center;">
         <video controls>
-            <source src="video.mp4" type="video/mp4">
+            <source src="output.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
     </div>
