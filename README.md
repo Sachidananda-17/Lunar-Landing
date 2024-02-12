@@ -7,9 +7,7 @@
 </head>
 <body>
     <h1 style="text-align: center;">LunarLander RL Agent</h1>
-    <div style="text-align: center;">
-        https://github.com/Sachidananda-17/Lunar-Landing/assets/107436781/a3743af8-e0e0-4417-bd14-be6ee32699ab
-    </div>
+        https://github.com/Sachidananda-17/Lunar-Landing/assets/107436781/a3743af8-e0e0-4417-bd14-be6ee32699a
     <p>This repository contains a Reinforcement Learning (RL) agent implemented in PyTorch to solve the LunarLander-v2 environment from the OpenAI Gym. The agent utilizes a Deep Q-Network (DQN) to learn how to control the lunar lander and safely land it on the moon's surface.</p>
     <h2>Overview</h2>
     <p>The LunarLander-v2 environment simulates the task of landing a spacecraft on the moon. The agent has control over the craft's main engine and orientation engines to maneuver and land safely. The goal is to learn a policy that maximizes the cumulative reward while safely landing on the designated landing pad.</p>
